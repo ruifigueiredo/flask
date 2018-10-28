@@ -10,7 +10,9 @@ $ docker build -t flask-sample-one:latest .
 
 $ docker run -d -p 5000:5000 flask-sample-one
 
-## Docker Compose
+## Build and Run the Service using Docker Compose
+
+Run the following command to build the docker image flask-sample-one from web directory and deploy is as a service
 
 $ docker-compose up
 
