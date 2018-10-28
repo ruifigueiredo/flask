@@ -4,7 +4,7 @@
 
 $ git clone https://github.com/ruifigueiredo/flask.git
 
-$ cd flask
+$ cd flask/web
 
 $ docker build -t flask-sample-one:latest .
 
