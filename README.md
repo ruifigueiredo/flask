@@ -23,3 +23,13 @@ http://localhost:5000
 ## Note:
 
 change code in /code without rebuild the container.
+
+# Flask App with MongoDB using Docker Compose
+
+$ cd flask/flask_compose_sample/web
+
+## Build and Run the Service using Docker Compose
+
+$ docker-compose build
+
+$ docker-compose up
