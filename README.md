@@ -26,7 +26,7 @@ change code in /code without rebuild the container.
 
 # Flask App with MongoDB using Docker Compose
 
-$ cd flask/flask_compose_sample/web
+$ cd flask/flask_compose_sample
 
 ## Build and Run the Service using Docker Compose
 
