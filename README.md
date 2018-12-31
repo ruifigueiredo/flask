@@ -1,5 +1,7 @@
 # Flask sample
 
+[![dockeri.co](http://dockeri.co/image/ruifigueiredo/flask)](https://registry.hub.docker.com/u/ruifigueiredo/flask/)
+
 ## Run container
 
 $ git clone https://github.com/ruifigueiredo/flask.git
